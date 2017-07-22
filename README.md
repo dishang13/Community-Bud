@@ -14,5 +14,6 @@ Teachers can make announcemnts, upload files (attendance and marks).
 Students can view these announcements and files and can also discuss in forums.
 Each forum discussion will have a main topic and comments on that topic (One level comments).
 
-## Contributor
-Swapnil Nivendkar - Initial UI and Bootstrap coding.
+## Contributors
+Swapnil Nivendkar
+Shreyank Prabhu
